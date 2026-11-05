@@ -1,0 +1,5 @@
+# your settings contain webhook / bot secrets
+config.json
+# runtime state
+seen.txt
+*.log

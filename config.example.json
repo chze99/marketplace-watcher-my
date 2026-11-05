@@ -1,0 +1,17 @@
+{
+  "keywords": ["ddr4", "ssd"],
+  "sources": ["carousell", "mudah", "facebook", "lowyat"],
+  "carousell_site": "https://www.carousell.com.my",
+  "mudah_region": "malaysia",
+  "facebook_city": "kualalumpur",
+  "lowyat_sections": [
+    "DesktopSystemsGarageSales",
+    "DisplayCardsGarageSales",
+    "RAMGarageSales",
+    "NotebooksGarageSales"
+  ],
+  "discord_webhook": "PASTE_DISCORD_WEBHOOK_URL_HERE",
+  "telegram_token": "",
+  "telegram_chat_id": "",
+  "browser_path": ""
+}
